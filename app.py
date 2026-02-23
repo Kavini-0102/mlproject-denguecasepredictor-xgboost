@@ -17,8 +17,7 @@ CLEANED_CSV = os.path.join(BASE_DIR, 'data',   'Data_Cleaned.csv')
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="🦟 Dengue Predictor — Sri Lanka",
-    page_icon="🦟",
+    page_title="🦟 Dengue Predictor - Sri Lanka",
     layout="wide"
 )
 
